@@ -47,6 +47,7 @@ img {
   display: block;
   /* 画像をブロック要素に設定 */
   margin: 0 auto;
+  margin-top: 5px;
   /* 画像を中央に配置　 */
   border-radius: 5px;
   /* 画像の角を丸く設定 */
